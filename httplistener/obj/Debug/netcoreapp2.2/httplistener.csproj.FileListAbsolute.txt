@@ -1,0 +1,11 @@
+C:\Users\shiga\source\repos\httplistener\httplistener\bin\Debug\netcoreapp2.2\httplistener.deps.json
+C:\Users\shiga\source\repos\httplistener\httplistener\bin\Debug\netcoreapp2.2\httplistener.runtimeconfig.json
+C:\Users\shiga\source\repos\httplistener\httplistener\bin\Debug\netcoreapp2.2\httplistener.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\httplistener\httplistener\bin\Debug\netcoreapp2.2\httplistener.dll
+C:\Users\shiga\source\repos\httplistener\httplistener\bin\Debug\netcoreapp2.2\httplistener.pdb
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.csprojAssemblyReference.cache
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.AssemblyInfo.cs
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.dll
+C:\Users\shiga\source\repos\httplistener\httplistener\obj\Debug\netcoreapp2.2\httplistener.pdb
